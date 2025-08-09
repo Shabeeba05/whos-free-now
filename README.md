@@ -1,7 +1,4 @@
 https://youtu.be/NLE1YVUkJfM
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/b8f66b5a-0668-41b1-87c6-23d45c7f1c06" />
-<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/6a2c82cb-783a-4574-8c4e-24502c6d3666" />
-<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/df00901f-175a-4ca0-ae7e-f107eec4d726" />
 
 # Are You Free? 🎯
 
@@ -65,14 +62,10 @@ npm run preview
 ## Project Documentation
 
 ### Screenshots
-![Landing Screen](Add screenshot of "Are you free?" landing page here)
-*The welcoming landing screen that starts the journey*
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/9d610f69-cc76-4a50-8489-e082b1235d6f" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/541714be-a159-4cfa-a58f-1e485591cd13" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/947e2b3f-f71c-4e65-be9d-80a7ecbe492a" />
 
-![Questions Interface](Add screenshot of question flow here)
-*Interactive question interface with smooth transitions*
-
-![Final Message](Add screenshot of final countdown and message here)
-*The final revelation with countdown animation*
 
 ### Diagrams
 ![Workflow](Add your user flow diagram here)
@@ -80,12 +73,8 @@ npm run preview
 
 ## Project Demo
 
-### Video
-[Add your demo video link here]
-*Demonstrates the complete user flow from landing to final message*
-
 ### Live Demo
-**URL:** https://lovable.dev/projects/bb654f0e-eaff-4ab7-a8cc-df5eea36a828
+https://www.youtube.com/watch?v=NLE1YVUkJfM
 
 ## Key Features
 - Single-page application with smooth transitions
