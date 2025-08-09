@@ -11,16 +11,12 @@ export default defineConfig(({ mode }) => ({
   },
   plugins: [
     react(),
-    mode === 'development' &&
-    componentTagger(),
+    mode === 'development' && componentTagger(),
   ].filter(Boolean),
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: '/whos-free-now/', // Added base configuration here
 }));
-export default defineConfig({
-  plugins: [react()],
-  base: '/whos-free-now/',
-  {)  
