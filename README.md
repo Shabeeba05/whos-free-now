@@ -1,5 +1,3 @@
-https://youtu.be/NLE1YVUkJfM
-
 # Are You Free? 🎯
 
 ## Basic Details
