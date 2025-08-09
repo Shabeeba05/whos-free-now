@@ -33,3 +33,5 @@ jobs:
           branch: gh-pages
           folder: dist
           token: ${{ secrets.GITHUB_TOKEN }}  # Explicit token usage
+- name: Deploy
+  uses: actions/deploy-pages@v2  # Modern deployment method
