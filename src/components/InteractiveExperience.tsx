@@ -189,14 +189,6 @@ export const InteractiveExperience: React.FC = () => {
       <h1 className="text-4xl md:text-6xl font-bold mb-8 bg-gradient-secondary bg-clip-text text-transparent">
         Adipolli Nalle oru ithaan ath.
       </h1>
-      <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-4 mt-12">
-        {answers.map((answer, index) => (
-          <Card key={index} className="p-6 animate-fade-in-up shadow-lg" style={{ animationDelay: `${index * 0.1}s` }}>
-            <h3 className="font-semibold text-primary mb-2">{answer.question}</h3>
-            <p className="text-muted-foreground">{answer.answer}</p>
-          </Card>
-        ))}
-      </div>
       <Button 
         variant="secondary" 
         onClick={() => {
